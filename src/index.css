@@ -1,0 +1,2 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=DM+Serif+Display:ital@0;1&display=swap');
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;min-width:320px;background:#fcfaf7;color:#27222e;font-family:'DM Sans',sans-serif}button,input,textarea{font:inherit}button{cursor:pointer}::selection{background:#cfb5f5;color:#27222e}
